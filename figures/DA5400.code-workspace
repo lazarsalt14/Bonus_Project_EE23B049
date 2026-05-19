@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "DA5400",
+			"path": "../../../Desktop/DA5400"
+		},
+		{
+			"name": "{src,results,figures,report}",
+			"path": "../{src,results,figures,report}"
+		},
+		{
+			"name": "figures",
+			"path": "."
+		},
+		{
+			"name": "report",
+			"path": "../report"
+		},
+		{
+			"name": "results",
+			"path": "../results"
+		},
+		{
+			"name": "src",
+			"path": "../src"
+		}
+	],
+	"settings": {}
+}
