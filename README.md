@@ -23,9 +23,10 @@ l2rw/
 │   └── visualize.py         # Figure generation
 ├── results/
 │   └── all_results.json     # Saved experiment results
-├── figures/                 # All generated figures (PDF)
+├── figures/                 # All generated figures
 ├── report/
-│   └── report.tex           
+│   ├── report.tex           
+│   └── report_bonus_assignment.pdf  
 └── README.md
 ```
 
