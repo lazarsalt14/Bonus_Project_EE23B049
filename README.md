@@ -7,7 +7,7 @@ Replication of **"Learning to Reweight Examples for Robust Deep Learning"** (Ren
 
 **Video**: https://youtu.be/xU3EYTdYbQw 
 
-**Report**: `report/report_bonus_assignment.pdf` 
+**Report**: `report/da5400_report_ee23b049.pdf` 
 
 ---
 
